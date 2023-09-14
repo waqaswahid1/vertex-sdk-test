@@ -1,0 +1,23 @@
+{
+  "name": "vertex-sdk-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vertex-protocol/client": "^0.4.0",
+    "@vertex-protocol/contracts": "^0.4.0",
+    "@vertex-protocol/engine-client": "^0.4.0",
+    "@vertex-protocol/indexer-client": "^0.4.0",
+    "@vertex-protocol/trigger-client": "^0.4.0",
+    "@vertex-protocol/utils": "^0.4.0",
+    "bignumber.js": "^9.1.2",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.7.1"
+  }
+}
